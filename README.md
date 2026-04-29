@@ -1,4 +1,6 @@
-# Distribution Installer for Termux
+`markdown
+
+Distribution Installer for Termux
 Coded by @XSkull7 (telegram)
 
 ---
@@ -23,7 +25,7 @@ python3 installer.py
 
 🎯 Features
 - Colorful ASCII banner and menu
-- Category‑based distro list (Ubuntu, Debian, Arch, etc.)
+- Category‑based distro list
 - Auto install with one click
 - Option to add autorun alias into ~/.bashrc
   - Example: alias ubuntu='./start-ubuntu22.sh'
@@ -71,7 +73,14 @@ Available Categories & Distributions:
   4. Debian 10.00
 [ Manjaro ]
   5. Manjaro 21
-...
+[ Kali Linux ]
+  6. Kali Linux 21.22
+[ Void ]
+  7. Void latest
+[ Fedora ]
+  8. Fedora 33
+[ Arch Linux ]
+  9. Arch Linux 2021.07.71
 `
 
 Pick a number, let it install, and you’re good to go.
@@ -83,7 +92,3 @@ Pick a number, let it install, and you’re good to go.
 - Alias setup is optional — if you skip, you can still run the distro manually.
 - Tested with Python 3. No requirements.txt needed.
 `
-
-This keeps it short, clear, and stylish. You can just replace the GitHub repo link with your actual repo URL.  
-
-Want me to also add a screenshot section (like showing Termux menu output) so the README looks even more attractive?
