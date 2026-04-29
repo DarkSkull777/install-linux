@@ -12,10 +12,12 @@ No extra dependencies needed — just Python 3 and Termux.
 ## 🚀 How to run
 Clone the repo and run the script:
 
-```pkg install git python -y
+```bash
+pkg install git python -y
 git clone https://github.com/yourusername/termux-distro-installer.git
 cd termux-distro-installer
-python3 installer.py```
+python3 installer.py
+```
 
 ---
 
