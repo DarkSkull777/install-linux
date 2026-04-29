@@ -57,32 +57,6 @@ Arch Linux
 
 ---
 
-##  Example Run
-When you start the script you’ll see something like:
-
-==========
-Available Categories & Distributions:
-[ Ubuntu ]
-  1. Ubuntu 18.04
-  2. Ubuntu 20.04
-  3. Ubuntu 22.04
-[ Debian ]
-  4. Debian 10.00
-[ Manjaro ]
-  5. Manjaro 21
-[ Kali Linux ]
-  6. Kali Linux 21.22
-[ Void ]
-  7. Void latest
-[ Fedora ]
-  8. Fedora 33
-[ Arch Linux ]
-  9. Arch Linux 2021.07.71
-
-Pick a number, let it install, and you’re good to go.
-
----
-
 ## ⚡ Notes
 - Works only inside Termux (Android).
 - Alias setup is optional — if you skip, you can still run the distro manually.
