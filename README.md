@@ -4,8 +4,8 @@ Coded by @XSkull7 (telegram)
 ---
 
 ## What is this?
-A Python script that helps you install popular Linux distributions inside Termux with a nice menu, colors, and ASCII banner.  
-No extra dependencies needed — just Python 3 and Termux.
+A Python script that helps you install popular Linux distributions inside Termux with easy install.  
+No extra dependencies needed just Python 3 and Termux.
 
 ---
 
@@ -25,7 +25,6 @@ python install.py
 - Auto install with one click
 - Option to add autorun alias into ~/.bashrc
   - Example: alias ubuntu='./start-ubuntu22.sh'
-- No external libraries required
 
 ---
 
@@ -59,5 +58,5 @@ Arch Linux
 
 ## ⚡ Notes
 - Works only inside Termux (Android).
-- Alias setup is optional — if you skip, you can still run the distro manually.
-- Tested with Python 3. No requirements.txt needed.
+- Alias setup is optional. if you skip, you can still run the distro manually.
+- Tested with Python3
