@@ -3,27 +3,25 @@ Coded by @XSkull7 (telegram)
 
 ---
 
-## 🔥 What is this?
+## What is this?
 A Python script that helps you install popular Linux distributions inside Termux with a nice menu, colors, and ASCII banner.  
 No extra dependencies needed — just Python 3 and Termux.
 
 ---
 
-## 🚀 How to run
+## How to run
 Clone the repo and run the script:
 
 ```bash
 pkg install git python -y
-git clone https://github.com/yourusername/termux-distro-installer.git
-cd termux-distro-installer
-python3 installer.py
+git clone https://github.com/DarkSkull777/install-linux.git
+cd install-linux
+python install.py
 ```
 
 ---
 
-## 🎯 Features
-- Colorful ASCII banner and menu
-- Category‑based distro list
+## Features
 - Auto install with one click
 - Option to add autorun alias into ~/.bashrc
   - Example: alias ubuntu='./start-ubuntu22.sh'
@@ -31,7 +29,7 @@ python3 installer.py
 
 ---
 
-## 📦 Available Distros
+## Available Distros
 Here’s what you can install right now:
 
 Ubuntu
@@ -59,7 +57,7 @@ Arch Linux
 
 ---
 
-## 🖼️ Example Run
+##  Example Run
 When you start the script you’ll see something like:
 
 ==========
